@@ -1,6 +1,8 @@
 # hello-world
-Hello World, long time no see.
+Hi sea-world!
 
-This is fun. How come I've never tried this before?
+This is fun. I have tried this before.
 
 GoodBye.
+
+See you soon!
